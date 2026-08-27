@@ -1,24 +1,24 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,40:2563EB,75:14B8A6,100:F8FAFC&text=Vivtus&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Creative%20Developer%20%7C%20AI%20Explorer%20%7C%20Product%20Builder&descAlignY=57&descSize=18">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F8FAFC,35:38BDF8,75:14B8A6,100:0F172A&text=Vivtus&fontColor=0F172A&fontSize=62&fontAlignY=36&desc=Creative%20Developer%20%7C%20AI%20Explorer%20%7C%20Product%20Builder&descAlignY=57&descSize=18" alt="Vivtus profile banner">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,40:2563EB,75:14B8A6,100:F8FAFC&text=Ayush20Thakur&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Creative%20Developer%20%7C%20AI%20Explorer%20%7C%20Product%20Builder&descAlignY=57&descSize=18">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F8FAFC,35:38BDF8,75:14B8A6,100:0F172A&text=Ayush20Thakur&fontColor=0F172A&fontSize=62&fontAlignY=36&desc=Creative%20Developer%20%7C%20AI%20Explorer%20%7C%20Product%20Builder&descAlignY=57&descSize=18" alt="Ayush20Thakur profile banner">
 </picture>
 
-<a href="https://github.com/Vivtus">
+<a href="https://github.com/Ayush20Thakur">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+digital+experiences+that+feel+alive.;Clean+code.+Sharp+design.+Real+usefulness.;Turning+ideas+into+products%2C+tools%2C+and+automation.;Always+learning.+Always+shipping.+Always+improving." alt="Animated typing headline">
 </a>
 
 <br />
 <br />
 
-<a href="https://github.com/Vivtus">
-  <img src="https://komarev.com/ghpvc/?username=Vivtus&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
+<a href="https://github.com/Ayush20Thakur">
+  <img src="https://komarev.com/ghpvc/?username=Ayush20Thakur&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
 </a>
-<a href="https://github.com/Vivtus?tab=followers">
-  <img src="https://img.shields.io/github/followers/Vivtus?style=for-the-badge&logo=github&label=FOLLOWERS&color=14B8A6&labelColor=111827" alt="GitHub followers">
+<a href="https://github.com/Ayush20Thakur?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ayush20Thakur?style=for-the-badge&logo=github&label=FOLLOWERS&color=14B8A6&labelColor=111827" alt="GitHub followers">
 </a>
-<a href="https://github.com/Vivtus?tab=repositories">
+<a href="https://github.com/Ayush20Thakur?tab=repositories">
   <img src="https://img.shields.io/badge/STATUS-BUILDING-38BDF8?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111827" alt="Status building">
 </a>
 <a href="mailto:your-email@example.com">
@@ -52,7 +52,7 @@ Mission          Make software feel less complicated and more human
 
 ```txt
 > whoami
-Vivtus
+Ayush20Thakur
 
 > focus --today
 Build useful things beautifully
@@ -76,7 +76,7 @@ Think clearly. Ship carefully. Improve daily.
 <br />
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivtus&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophy board">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush20Thakur&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophy board">
 
 </div>
 
@@ -89,8 +89,8 @@ Think clearly. Ship carefully. Improve daily.
     <td width="50%">
       <h3 align="center">Project One</h3>
       <p align="center">
-        <a href="https://github.com/Vivtus/REPOSITORY_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivtus&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
+        <a href="https://github.com/Ayush20Thakur/REPOSITORY_NAME">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush20Thakur&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
         </a>
       </p>
       <p align="center">Your strongest project, framed in one confident sentence.</p>
@@ -98,8 +98,8 @@ Think clearly. Ship carefully. Improve daily.
     <td width="50%">
       <h3 align="center">Project Two</h3>
       <p align="center">
-        <a href="https://github.com/Vivtus/REPOSITORY_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivtus&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
+        <a href="https://github.com/Ayush20Thakur/REPOSITORY_NAME">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush20Thakur&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
         </a>
       </p>
       <p align="center">Another project that proves your taste, skill, and execution.</p>
@@ -109,8 +109,8 @@ Think clearly. Ship carefully. Improve daily.
     <td width="50%">
       <h3 align="center">Project Three</h3>
       <p align="center">
-        <a href="https://github.com/Vivtus/REPOSITORY_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivtus&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
+        <a href="https://github.com/Ayush20Thakur/REPOSITORY_NAME">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush20Thakur&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
         </a>
       </p>
       <p align="center">A practical build that shows problem-solving and polish.</p>
@@ -118,8 +118,8 @@ Think clearly. Ship carefully. Improve daily.
     <td width="50%">
       <h3 align="center">Project Four</h3>
       <p align="center">
-        <a href="https://github.com/Vivtus/REPOSITORY_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivtus&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
+        <a href="https://github.com/Ayush20Thakur/REPOSITORY_NAME">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush20Thakur&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6" alt="Pinned repository card">
         </a>
       </p>
       <p align="center">A creative experiment, tool, app, or automation worth noticing.</p>
@@ -133,18 +133,18 @@ Think clearly. Ship carefully. Improve daily.
 
 ## Live Metrics
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=Vivtus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6&rank_icon=github&include_all_commits=true" alt="GitHub stats">
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivtus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top languages">
+<img height="178" src="https://github-readme-stats.vercel.app/api?username=Ayush20Thakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=14B8A6&rank_icon=github&include_all_commits=true" alt="GitHub stats">
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush20Thakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top languages">
 
 <br />
 <br />
 
-<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivtus&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=14B8A6&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub streak stats">
+<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush20Thakur&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=14B8A6&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub streak stats">
 
 <br />
 <br />
 
-<img width="920" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivtus&custom_title=Contribution%20Flow&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=14B8A6&area=true&area_color=38BDF8&hide_border=true" alt="GitHub contribution activity graph">
+<img width="920" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush20Thakur&custom_title=Contribution%20Flow&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=14B8A6&area=true&area_color=38BDF8&hide_border=true" alt="GitHub contribution activity graph">
 
 </div>
 
@@ -155,18 +155,18 @@ Think clearly. Ship carefully. Improve daily.
 ## Contribution Arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivtus/Vivtus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivtus/Vivtus/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/Vivtus/Vivtus/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/output/pacman-contribution-graph.svg">
 </picture>
 
 <br />
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivtus/Vivtus/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivtus/Vivtus/output/github-snake.svg">
-  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/Vivtus/Vivtus/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/output/github-snake.svg">
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/output/github-snake.svg">
 </picture>
 
 </div>
@@ -177,7 +177,7 @@ Think clearly. Ship carefully. Improve daily.
 
 ## 3D Contribution Skyline
 
-<img width="920" src="https://raw.githubusercontent.com/Vivtus/Vivtus/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph">
+<img width="920" src="https://raw.githubusercontent.com/Ayush20Thakur/Ayush20Thakur/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph">
 
 </div>
 
@@ -211,7 +211,7 @@ Look at the featured projects first, then the contribution graph, then the pinne
 
 ```json
 {
-  "name": "Vivtus",
+  "name": "Ayush20Thakur",
   "role": "Creative Developer",
   "interests": ["full-stack", "AI", "automation", "product design"],
   "values": ["clarity", "craft", "speed", "usefulness"],
@@ -254,7 +254,7 @@ Look at the featured projects first, then the contribution graph, then the pinne
 
 <!--
 Customization checklist:
-1. Replace every Vivtus with your exact GitHub username if different.
+1. Replace every Ayush20Thakur with your exact GitHub username if different.
 2. Replace each REPOSITORY_NAME with a real repository.
 3. Update email, LinkedIn, X, and portfolio links.
 4. Copy the workflow files from this package into your profile repository.
